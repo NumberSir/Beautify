@@ -97,12 +97,12 @@
   "botanist_workbench.description": "供植物学家村民使用",
 
   "entity.minecraft.villager.beautify.botanist": "植物学家",
-  "sounds.beautify.bookstack_break": "书堆破损",
-  "sounds.beautify.bookstack_step": "在书堆上行走",
-  "sounds.beautify.bookstack_place": "放置书堆",
-  "sounds.beautify.bookstack_hit": "攻击书堆",
-  "sounds.beautify.bookstack_fall": "书堆被砸到",
-  "sounds.beautify.bookstack_next": "书堆切换",
-  "sounds.beautify.blinds_open": "灯泡打开",
-  "sounds.beautify.blinds_close": "灯泡关闭"
+  "sounds.beautify.bookstack_break": "书堆：被破坏",
+  "sounds.beautify.bookstack_step": "书堆：脚步声",
+  "sounds.beautify.bookstack_place": "书堆：被放置",
+  "sounds.beautify.bookstack_hit": "书堆：被攻击",
+  "sounds.beautify.bookstack_fall": "某物：摔落到书堆上",
+  "sounds.beautify.bookstack_next": "书堆：开合",
+  "sounds.beautify.blinds_open": "灯泡：点亮",
+  "sounds.beautify.blinds_close": "灯泡：熄灭"
 }
