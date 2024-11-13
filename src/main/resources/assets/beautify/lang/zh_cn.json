@@ -76,7 +76,7 @@
   "block.beautify.warped_blinds": "诡异百叶窗",
   "block.beautify.mangrove_blinds": "红树百叶窗",
   "block.beautify.iron_blinds": "铁质百叶窗",
-  "blinds.description1": "右键开关选中的和左右相连的百叶窗",
+  "blinds.description1": "右击方块以开关选中的和周围的百叶窗",
   "blinds.description2": "关掉百叶窗后，位于这个百叶窗下方的百叶窗将会显示为透明的",
 
   "block.beautify.oak_trellis": "橡木木架",
