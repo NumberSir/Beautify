@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "beautify:rope"
+      "id": "beautify:rope"
     },
     "title": "Could you knot?",
     "description": "Tie String together to receive Rope",

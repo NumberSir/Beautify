@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:rose_bush"
+      "id": "minecraft:rose_bush"
     },
     "title": "Let's Beautify!",
     "description": "The devil is in the detailing",

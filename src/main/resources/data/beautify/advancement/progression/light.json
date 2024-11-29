@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "beautify:lamp_light_bulb"
+      "id": "beautify:lamp_light_bulb"
     },
     "title": "Lit!",
     "description": "Craft a lightsource from Beautify",

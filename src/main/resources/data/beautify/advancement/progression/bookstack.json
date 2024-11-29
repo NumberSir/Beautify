@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "beautify:bookstack"
+      "id": "beautify:bookstack"
     },
     "title": "No shelf organization",
     "description": "Who needs shelves anyways? Craft a bookstack",
